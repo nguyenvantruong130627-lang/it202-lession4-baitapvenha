@@ -117,7 +117,7 @@ WHERE student_id = 4 AND course_id = 4;
 
 -- Lấy thông tin tất cả sinh viên
 SELECT * FROM Students;
---Lấy thông tin giảng viên
+-- Lấy thông tin giảng viên
 SELECT * FROM Teachers;
 -- Lấy danh sách các khóa học
 SELECT * FROM Courses;
